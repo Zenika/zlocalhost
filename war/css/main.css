@@ -93,19 +93,22 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body { background-color: #d9d9d9; }
 
+body .galleria-container{ background:#d9d9d9; }
 
+#app-title {
+	font-family: "helvetica neue",sans-serif;
+	font-weight: bold;
+	font-size: 44px;
+	color: #942723;
+	text-align: right;
+	padding-right: 8%;
+}
 
-
-
-
-
-
-
-
-
-
-
+#galleria {
+  height:800px;
+}
 
 
 
