@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Pierre Queinnec -- Developer -- @queinnec
+
+# THANKS
+
+    Al Amine Ousman
+    Frédérique Mercié
+    Nicolas André
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
